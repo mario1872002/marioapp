@@ -1,3 +1,4 @@
 <?php
-echo "DESCARGAR JUEGOS";
+echo "BIENVENIDOS";
+
 
